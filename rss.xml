@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[alexchenlawyer]]></title>
+        <description><![CDATA[alexchenlawyer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 24 Nov 2015 03:17:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Boston IP Firm Wants GPNE’s $100M Malpractice Suit Dismissed]]></title>
+            <description><![CDATA[<article><h1>Boston IP Firm Wants GPNE’s $100M Malpractice Suit Dismissed</h1><p>Tcchiuti & Rohlicek LLP urged a Massachusetts federal court to dismiss a $100 million malpractice suit brought by GPNE Corp. over a lapsed Japanese data communications patent, arguing the complaint fails to make specific claims or include an English translation of the patent.</p></article>]]></description>
+            <link>undefinedboston-ip-firm-wants-gpnes-dollar100m-malpractice-suit-dismissed/index.html</link>
+            <guid isPermaLink="false">2465b371-3cbc-46a6-bb15-93ee3d863664</guid>
+            <pubDate>Tue, 24 Nov 2015 03:17:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
