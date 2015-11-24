@@ -1,0 +1,28 @@
+name: alexchenlawyer
+favicon: null
+layout_spectrum: 0.1934486348181963
+typography_spectrum: 0.22145310183987021
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5789415577892214
+  lightness: 0.9296040839981288
+  saturation: 0.430215111002326
+  rhythmicContrast: 0.09921006578952074
+purpose: []
